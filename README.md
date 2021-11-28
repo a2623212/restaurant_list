@@ -2,9 +2,6 @@
 
 ###### tags: `readme`
 
-[TOC]
-
-
 ## About the ++Restaurant List 1.0++
 A simple web application for users to look for the info of restaurants.
 
